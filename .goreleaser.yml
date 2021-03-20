@@ -13,7 +13,7 @@ changelog:
       - '^test:'
 release:
   github:
-    owner: xplorfin
+    owner: jakesyl
     name: pointerutils
 
 # add a source archive at release time
